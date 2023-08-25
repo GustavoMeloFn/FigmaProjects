@@ -9,11 +9,6 @@ Repositório dedicado aos meus projetos criados na ferramenta de design Figma.
 <hr>
 
 <div style="display: flex; gap: 20px;">
-  <img src="URL_DA_IMAGEM1" alt="Imagem 1" width="300">
-  <img src="URL_DA_IMAGEM2" alt="Imagem 2" width="300">
-</div>
-
-<div style="display: flex; gap: 20px;">
   <img src="https://github.com/GustavoMeloFn/FigmaProjects/blob/main/Android%20Large%20-%202.png" alt="Imagem 1" width="300">
   <img src="https://github.com/GustavoMeloFn/FigmaProjects/blob/main/Android%20Large%20-%202.png" alt="Imagem 2" width="300">
 </div>
