@@ -8,5 +8,5 @@ Repositório dedicado aos meus projetos criados na ferramenta de design Figma.
 
 <hr>
 
-![ImagemTelaDesktop](https://github.com/GustavoMeloFn/FigmaProjects/blob/main/Android%20Large%20-%202.png)
+![ImagemTelaDesktop](https://github.com/GustavoMeloFn/FigmaProjects/blob/main/Android%20Large%20-%202.png) ![ImagemTelaDesktop](https://github.com/GustavoMeloFn/FigmaProjects/blob/main/Android%20Large%20-%202.png)
 
