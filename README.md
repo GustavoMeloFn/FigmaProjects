@@ -18,7 +18,7 @@ Repositório dedicado aos meus projetos criados na ferramenta de design Figma.
 
 <h2> <a href="https://www.figma.com/file/qeGxlLwYOfIvcHUhz9CthX/Semana-Geek---Okoye?type=design&node-id=0-1&mode=design&t=dsMCm1BYNsnfBaTO-0">Tributo Semana Geek - Okoye</a></h2>
 
-<img src="https://github.com/GustavoMeloFn/FigmaProjects/blob/main/Projetos/SemanaGeek/A4%20-%201.png" width="900">
+<img src="https://github.com/GustavoMeloFn/FigmaProjects/blob/main/Projetos/SemanaGeek/A4%20-%201.png" width="700">
 
 <hr>
 
