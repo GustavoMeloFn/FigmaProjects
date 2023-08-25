@@ -6,7 +6,6 @@ Repositório dedicado aos meus projetos criados na ferramenta de design Figma.
 
 <img src="https://github.com/GustavoMeloFn/FigmaProjects/blob/main/Projetos/YoungMusic/MacBook%20Pro%2016_%20-%201.png" alt="Imagem 1" width="900">
 
-<hr>
 
 <div style="display: flex;">
   <img src="https://github.com/GustavoMeloFn/FigmaProjects/blob/main/Projetos/YoungMusic/Android%20Large%20-%201.png" width="250">    
